@@ -1,13 +1,26 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+@extends('layout.app')
 
-        <title>Laravel</title>
+@section('title')
 
-    </head>
-    <body>
-       <p>Bonjour tout le monde </p>
-    </body>
-</html>
+TM2
+
+@endsection
+
+@section('header')
+
+<a class="navbar-brand" href="#">Programmation Web - TM2 : Exercice 1 - FEKIH HASSEN Yassine</a>
+
+
+@endsection
+
+@section('content')
+
+<div class="d-flex justify-content-center align-items-center" style="height:100vh;">
+    <h1 class="text-center">Bonjour tout le monde</h1>
+</div>
+
+@endsection
+
+
+
+
