@@ -2,14 +2,13 @@
 
 @section('title')
 
-TM2
+    TM2
 
 @endsection
 
 @section('header')
 
 <a class="navbar-brand" href="#">Programmation Web - TM2 : Exercice 1 </a>
-
 
 @endsection
 
