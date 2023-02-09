@@ -8,7 +8,7 @@ TM2
 
 @section('header')
 
-<a class="navbar-brand" href="#">Programmation Web - TM2 : Exercice 1 - FEKIH HASSEN Yassine</a>
+<a class="navbar-brand" href="#">Programmation Web - TM2 : Exercice 1 </a>
 
 
 @endsection
