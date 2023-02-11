@@ -1,14 +1,11 @@
 @extends('layout.app')
 
-@section('title')
+@section('title','Exo 1')
 
-    TM2
-
-@endsection
 
 @section('header')
 
-<a class="navbar-brand" href="#">Programmation Web - TM2 : Exercice 1 </a>
+<a class="navbar-brand" href="#"> Programmation Web - TM2 : Exercice 1 </a>
 
 @endsection
 
